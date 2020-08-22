@@ -24,7 +24,7 @@ class Meu_Quadrado:
 
     def Calculo_Area(self):
         area = self.lado**2
-        print("A área do circulo é de lado %i é igua a %i"%(self.lado,area))
+        print("A área do circulo de lado %i é igual a %i"%(self.lado,area))
 
 quadrado = Meu_Quadrado(5)
 
